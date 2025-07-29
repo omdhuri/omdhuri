@@ -20,7 +20,7 @@
 - 🌐 Developed a **Mini Smart Home** using ESP32 and web server to control LEDs  
 - 📶 Built a **Wi-Fi Deauther** with ESP32  
 - 💬 Made a **Message Spammer** using Python loops (just for fun!)  
-- 🎮 Created a **Number Guessing Game** in Python  
+- 🎮 Created a **Number Guessing Game** in C 
 - 📲 Developed a **QR Code Generator** using Python libraries
 
 ---
